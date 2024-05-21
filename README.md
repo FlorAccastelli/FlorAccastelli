@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/florencia-accastelli-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florencia accastelli" height="30" width="40" /></a>
+<a href="https://ar.linkedin.com/in/florencia-accastelli-049b97206?trk=profile-badge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florencia accastelli" height="30" width="40" /></a>
 </p>
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="florencia-accastelli-049b97206" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/florencia-accastelli-049b97206?trk=profile-badge">Florencia Accastelli</a></div>
               
