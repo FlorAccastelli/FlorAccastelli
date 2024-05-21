@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <h1 align="center">Hi 👋, I'm Florencia Accastelli</h1>
 <h3 align="center">A web developer from Argentina. I am passionate about web development as a way to enhance creativity, experience and good practices. Challenges guide me, and I don't stop until I get what I want. I am a Linux user. The technologies and frameworks with which I have experience are: JavaScript, git and its workflow (git flow). On the backend, I develop with data structures, PostgreSQL, Sequelize, Express and Node.js. On the frontend, I develop with HTML, React, Redux, CSS and Tailwind.</h3>
 
@@ -13,6 +11,7 @@
 <p align="left">
 <a href="www.linkedin.com/in/florencia-accastelli-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florencia accastelli" height="30" width="40" /></a>
 </p>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="florencia-accastelli-049b97206" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/florencia-accastelli-049b97206?trk=profile-badge">Florencia Accastelli</a></div>
               
 
