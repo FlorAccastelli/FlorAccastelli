@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Florencia Accastelli</h1>
-<h3 align="center">A web developer from Argentina. I am passionate about web development as a way to enhance creativity, experience and good practices. Challenges guide me, and I don't stop until I get what I want. I am a Linux user, because I believe in open source as a form of teamwork and collaboration. The technologies and frameworks with which I have experience are: JavaScript, git and its workflow (git flow). On the backend, I develop with data structures, PostgreSQL, Sequelize and Node.js. On the frontend, I develop with HTML, React, Redux, CSS and Tailwind.</h3>
+<h3 align="center">A web developer from Argentina. I am passionate about web development as a way to enhance creativity, experience and good practices. Challenges guide me, and I don't stop until I get what I want. I am a Linux user. The technologies and frameworks with which I have experience are: JavaScript, git and its workflow (git flow). On the backend, I develop with data structures, PostgreSQL, Sequelize, Express and Node.js. On the frontend, I develop with HTML, React, Redux, CSS and Tailwind.</h3>
 
 - 🔭 I’m currently working on [Pink Panther e-commerce](https://pinkpantherfront.vercel.app)
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/florencia accastelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florencia accastelli" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/florencia accastelli-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florencia accastelli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
