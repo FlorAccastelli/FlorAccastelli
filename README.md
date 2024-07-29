@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Florencia Accastelli</h1>
 <h3 align="center">A web developer from Argentina. I am passionate about web development as a way to enhance creativity, experience and good practices. Challenges guide me, and I don't stop until I get what I want. I am a Linux user. The technologies and frameworks with which I have experience are: JavaScript, git and its workflow (git flow). On the backend, I develop with data structures, PostgreSQL, Sequelize, Express, Node.js and Ruby on Rails. On the frontend, I develop with HTML, React, Redux, Nextjs, CSS and TailwindCSS.</h3>
 
-- 🔭 I’m currently working on [Pink Panther e-commerce](https://pinkpantherfront.vercel.app)
-
-- 🌱 I’m currently learning **JavaScript, React, Redux.**
+- 🌱 I’m currently learning **JavaScript, React, NextJs and Ruby On Rails.**
 
 - 📫 How to reach me **f.accastelli@gmail.com**
 
